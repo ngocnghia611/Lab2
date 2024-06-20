@@ -1,0 +1,17 @@
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\Repositories\bin\Debug\net8.0\Repositories.deps.json
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\Repositories\bin\Debug\net8.0\Repositories.dll
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\Repositories\bin\Debug\net8.0\Repositories.pdb
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\Repositories\obj\Debug\net8.0\Repositories.dll
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\Repositories\obj\Debug\net8.0\Repositories.pdb
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\Repositories\obj\Debug\net8.0\ref\Repositories.dll
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\Repositories\bin\Debug\net8.0\BusinessObjects.dll
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\Repositories\bin\Debug\net8.0\DataAccessLayer.dll
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\Repositories\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\Repositories\bin\Debug\net8.0\BusinessObjects.pdb
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date

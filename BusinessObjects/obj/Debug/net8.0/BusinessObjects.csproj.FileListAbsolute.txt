@@ -1,0 +1,14 @@
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\BusinessObjects\bin\Debug\net8.0\BusinessObjects.runtimeconfig.json
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.AssemblyReference.cache
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\BusinessObjects\obj\Debug\net8.0\BusinessObjects.genruntimeconfig.cache

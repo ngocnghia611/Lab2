@@ -1,0 +1,15 @@
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.dll
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.pdb
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\KY%\1_PRN212\PT2\PT2_NguyenTheHieu\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
